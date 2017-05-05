@@ -3,4 +3,4 @@ There are some the implementation of machine learning algorithm. I'll open the s
 
 ## Bayes classifier
 
-If there are any problem, please contact me(litaoxiao@gmail.com).
+If there are any problems, please contact me(litaoxiao@gmail.com).
