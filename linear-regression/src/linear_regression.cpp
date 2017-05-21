@@ -15,8 +15,8 @@ void print(vector<double> v) {
 
 int main() {
 	// parameters
-	double ALPHA = 0.0005;
-	double MAX_ITERATIONS = 1000;
+	double ALPHA = 0.00001;
+	double MAX_ITERATIONS = 10000;
 	double MIN_ERR = 10;
 	int N = 4;	// the number of theta
 
@@ -60,7 +60,7 @@ int main() {
 				double h = trainData[i].hypothesis(thetas);
 				sum += ((h - trainData[i].y) * trainData[i].X[n]);
 			}
-			tmp[n] -= (ALPHA * (sum / m));
+			tmp[n] -= (ALPHA * sum);
 		}
 		thetas = tmp;
 		cout << "after " << iter << " >>> error is " << err
