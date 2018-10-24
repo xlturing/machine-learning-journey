@@ -14,7 +14,7 @@ email: litaoxiao@gmail.com
 
 ## 目录结构
 每个目录结构下会有更加详细的说明
-* linear-regression: 用C++实现的一个简单线性回归模型
-* logistic-regression: 用C++实现的一个简单逻辑回归模型
-* seg-hmm: 用Python实现了基于HMM的分词模型 blog: https://www.cnblogs.com/xlturing/p/8467033.html
-* seg-ngram: 用Python实现了基于1-gram的分词模型 blog: http://www.cnblogs.com/xlturing/p/8467021.html
+* linear-regression： 用C++实现的一个简单线性回归模型
+* logistic-regression： 用C++实现的一个简单逻辑回归模型
+* seg-hmm： 用Python实现了基于HMM的分词模型 blog: https://www.cnblogs.com/xlturing/p/8467033.html
+* seg-ngram： 用Python实现了基于1-gram的分词模型 blog: http://www.cnblogs.com/xlturing/p/8467021.html
