@@ -1,13 +1,17 @@
-# Machine Learning Implementation
-There are some the implementation of machine learning algorithm. I'll open the source code and publish my understanding on my own blog(http://www.cnblogs.com/xlturing/). 
+# ML/NLP/DNN Implementation
+blog: http://www.cnblogs.com/xlturing/
+email: litaoxiao@gmail.com
 
 ## run environment
-* unbuntu
+* linux/macos
 * c++11
-* eclipse
+* java
 * python3
-* intellij
-* pyCharm
+* eclipse
 * tensorflow
 
-If there are any problems, please contact me(litaoxiao@gmail.com).
+## directory structure
+* linear-regression: Using c++ implement a simple linear-regression model
+* logistic-regression: Using c++ implement a simple logistic-regression model
+* seg-hmm: Using python implement a segmentation model based on HMM. blog: https://www.cnblogs.com/xlturing/p/8467033.html
+* seg-ngram: Using python implement a segmentation model based on 1-gram. blog: http://www.cnblogs.com/xlturing/p/8467021.html
