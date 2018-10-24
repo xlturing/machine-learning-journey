@@ -6,6 +6,8 @@ There are some the implementation of machine learning algorithm. I'll open the s
 * c++11
 * eclipse
 * python3
+* intellij
 * pyCharm
+* tensorflow
 
 If there are any problems, please contact me(litaoxiao@gmail.com).
