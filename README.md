@@ -1,6 +1,8 @@
 # ML/NLP/DNN部分算法实现
 根据平时工作学习的积累，会将自己实现的算法代码放在这里，博客中会进行说明讲解，欢迎大家一起讨论。
+
 blog: http://www.cnblogs.com/xlturing/
+
 email: litaoxiao@gmail.com
 
 ## 运行环境
