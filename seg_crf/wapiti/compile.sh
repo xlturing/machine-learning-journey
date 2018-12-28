@@ -1,0 +1,2 @@
+rm ./wapiti
+make
